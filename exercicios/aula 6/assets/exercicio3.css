@@ -1,0 +1,75 @@
+h1{
+ text-align: center;
+}
+
+.verdinho {
+   color: green;
+    background-color: gray;
+}
+.verdinho:hover {
+   color: black;
+    background-color: white;
+    text-align: left;
+}
+
+.vermelhinho {
+    color: red;
+    text-align: center;
+    background-color: gray;
+}
+.vermelhinho:hover {
+    color: black;
+    text-align: left;
+    background-color: white;
+}
+
+.azulzinho {
+    color: blue;
+    text-align: right;
+    background-color: gray;
+}
+.azulzinho:hover {
+    color: black;
+    text-align: left;
+    background-color: white;
+}
+
+.roxoxo {
+    color: purple;
+    text-align: center;
+    background-color: gray;
+}
+.roxoxo:hover {
+    color: black;
+    text-align: left;
+    background-color: white;
+}
+
+.amerelolo {
+    color: yellow;
+    background-color: gray;
+}
+.amerelolo:hover {
+    color: black;
+    background-color: white;
+    text-align: left;
+}
+
+.barbie {
+    color: pink;
+    text-align: center;
+    background-color: gray;
+}
+.barbie:hover {
+    color: black;
+    text-align: left;
+    background-color: white;
+}
+
+body {
+    background-color: khaki;
+}
+
+ul {
+    background-color: white;
+}

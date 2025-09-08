@@ -1,0 +1,45 @@
+h1{
+ text-align: center;
+}
+
+.verdinho {
+   color: green;
+    background-color: gray;
+}
+
+.vermelhinho {
+    color: red;
+    text-align: center;
+    background-color: gray;
+}
+
+.azulzinho {
+    color: blue;
+    text-align: right;
+    background-color: gray;
+}
+
+.roxoxo {
+    color: purple;
+    text-align: center;
+    background-color: gray;
+}
+
+.amerelolo {
+    color: yellow;
+    background-color: gray;
+}
+
+.barbie {
+    color: pink;
+    text-align: center;
+    background-color: gray;
+}
+
+body {
+    background-color: khaki;
+}
+
+ul {
+    background-color: white;
+}

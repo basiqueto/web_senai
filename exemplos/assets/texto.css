@@ -1,0 +1,21 @@
+p {
+    color: red; /*muda a cor*/
+}
+
+.text-black { /*muda o fundo*/
+    color: red;
+    background-color: black;
+    display: inline;
+}
+
+#texto-maior { /*muda a fonte*/
+    font-size: 32px;
+    font-family: "Arial Black";
+    display: inline;
+}
+
+#texto-maior:hover { /*quando passar o mouse por cima muda a cor*/
+    color: blue;
+    font-size: 32px;
+    font-family: "Arial Black"; background-color: blueviolet;
+}
