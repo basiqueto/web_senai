@@ -1,0 +1,91 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+div {
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+div:hover {
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+
+.azul{
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.azul:hover{
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.amarelo {
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.amarelo:hover {
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.verde{
+    background-color: green;
+    width: 50%;
+    height: 200px;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.verde:hover{
+    background-color: white;
+    color: black;
+    width: 50%;
+    height: 200px;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
