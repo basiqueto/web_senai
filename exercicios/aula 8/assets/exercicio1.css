@@ -37,7 +37,7 @@ body{
 
 
 
-.blue_escuro{
+.main{
     display: flex;
     background-color: white;
     height: 250px;
@@ -48,13 +48,13 @@ body{
 
 
 
-.blue_claro {
+.cards {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
-.blue_claro div{
+.cards div{
     flex: auto;
     background-color: thistle;
     text-align: center;
