@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    color: white;
+    display: flex;
+    background-color: darkmagenta;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.logo{
+    font-size: 25px;
+    margin: 5px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.lista div{
+    margin: 5px;
+    padding: 5px;
+}
+
+.right{
+    display: flex;
+}
+
+
+
+.blue_escuro{
+    display: flex;
+    background-color: white;
+    height: 250px;
+    margin: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+.blue_claro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.blue_claro div{
+    flex: auto;
+    background-color: thistle;
+    text-align: center;
+    margin: 0 15px;
+    width: 40%;
+}
+
+p{
+    color: darkmagenta;
+}
+
+.texto2 {
+    color: darkmagenta;
+}
+
+
+
