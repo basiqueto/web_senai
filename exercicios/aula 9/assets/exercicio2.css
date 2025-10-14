@@ -1,0 +1,70 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 0 5px;
+}
+
+.brasileirao{
+    color: lightskyblue;
+}
+
+th{
+    color: cornflowerblue;
+}
+
+.quatro{
+    color: lawngreen;
+    text-align: center;
+}
+
+.dois{
+    color: blue;
+    text-align: center;
+}
+
+.seis{
+    color: yellow;
+    text-align: center;
+}
+
+.quatro_um{
+    color: white;
+    text-align: center;
+}
+
+.quatro_dois {
+    color: red;
+    text-align: center;
+}
+
+.a{
+    color: black;
+    background-color: cyan;
+}
+
+table{
+    background-color: midnightblue;
+    font-weight: bold;
+    font-family: "Arial Black";
+}
+
+.time{
+    background-color: #f3f1f1;
+}
+
+.j{
+    color: cornflowerblue;
+}
+
+.v{
+    color: cornflowerblue;
+}
+
+.sg{
+    color: cornflowerblue;
+}
+
+.gp{
+    color: cornflowerblue;
+}

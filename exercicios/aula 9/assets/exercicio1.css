@@ -1,0 +1,18 @@
+thead{
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+    color: cornflowerblue;
+}
